@@ -1,3 +1,6 @@
+[![Build](https://github.com/Williamug/ulubamu/actions/workflows/build.yml/badge.svg)](https://github.com/Williamug/ulubamu/actions/workflows/build.yml)
+
+
 ## About Ulubamu
 
 Ulubamu is an online image storage and album for all your photos. With Ulubamu you can store an endless number of photos depending on your plan for a long period of time. This application uses google drive, dropbox or iCloud to store your photos in the cloud
